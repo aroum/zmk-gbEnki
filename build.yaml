@@ -17,3 +17,6 @@ include:
     shield: gbEnki_left
   - board:  nice_nano_v2
     shield: gbEnki_right
+  - board: nice_nano_v2
+    shield: settings_reset
+    artifact-name: nice_nano_v2_settings_reset
