@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: sqdbruh
-      revision: main
+      revision: v0.3-branch
       import: app/west.yml
   self:
     path: config
